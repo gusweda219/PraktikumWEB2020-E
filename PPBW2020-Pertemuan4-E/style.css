@@ -1,0 +1,24 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: red;
+    color: yellow;
+}
+
+thead td {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+tbody {
+    background-color: blanchedalmond;
+}
+
+tfoot {
+    background-color: yellow;
+    font-weight: 600;
+    color: red;
+}
