@@ -1,0 +1,7 @@
+admin
+username : admin
+pass : admin
+
+pegawai
+username : pegawai
+pass : pegawai
